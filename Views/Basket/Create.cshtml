@@ -1,0 +1,16 @@
+﻿@model DAL.Models.Basket
+
+@{
+    ViewData["Title"] = "Create Basket";
+}
+
+<h2>Create Basket</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="CreatedDate">Created Date</label>
+        <span asp-validation-for="CreatedAt" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Basket</button>
+</form>
