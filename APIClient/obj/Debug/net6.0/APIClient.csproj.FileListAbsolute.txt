@@ -1,0 +1,16 @@
+C:\Users\amara\source\repos\EasyGear\APIClient\bin\Debug\net6.0\APIClient.deps.json
+C:\Users\amara\source\repos\EasyGear\APIClient\bin\Debug\net6.0\APIClient.dll
+C:\Users\amara\source\repos\EasyGear\APIClient\bin\Debug\net6.0\APIClient.pdb
+C:\Users\amara\source\repos\EasyGear\APIClient\bin\Debug\net6.0\DAL.dll
+C:\Users\amara\source\repos\EasyGear\APIClient\bin\Debug\net6.0\DAL.pdb
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.csproj.AssemblyReference.cache
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.AssemblyInfoInputs.cache
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.AssemblyInfo.cs
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.csproj.CoreCompileInputs.cache
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.sourcelink.json
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.csproj.Up2Date
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.dll
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\refint\APIClient.dll
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\APIClient.pdb
+C:\Users\amara\source\repos\EasyGear\APIClient\obj\Debug\net6.0\ref\APIClient.dll
